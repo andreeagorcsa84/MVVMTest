@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVVMTest</string>
+
+    <!-- titles -->
+    <string name="codec">codec</string>
+    <string name="model">model</string>
+    <string name="stream_id">stream_id</string>
+    <string name="frame_size">frame_size</string>
+    <string name="extra_data">extra_data</string>
+
+    <string name="hint">Your text here please</string>
+
+</resources>
